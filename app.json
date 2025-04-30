@@ -1,0 +1,10 @@
+{
+  "name": "datadaog-session-replay-crash-demo",
+  "slug": "datadaog-session-replay-crash-demo",
+  "android": {
+    "package": "com.marcobeltempo.datadaogsessionreplaycrashdemo"
+  },
+  "ios": {
+    "bundleIdentifier": "com.marcobeltempo.datadaogsessionreplaycrashdemo"
+  }
+}
