@@ -1794,22 +1794,22 @@
     xml2js "0.5.0"
     yamux-js "0.1.2"
 
-"@datadog/mobile-react-native-session-replay@2.6.1":
-  version "2.6.1"
-  resolved "https://registry.yarnpkg.com/@datadog/mobile-react-native-session-replay/-/mobile-react-native-session-replay-2.6.1.tgz#8a8fbb2950da28fa9d04b89e3c7fe511d94cddf0"
-  integrity sha512-MzjyWp4cwSDfMCLCe7DORoOwbMx01fuNFqwefDNnrmCDp+SCCmsYpfC9mODKF6oqcOYwLYhjowRh60OnPe+m+w==
+"@datadog/mobile-react-native-session-replay@2.7.0":
+  version "2.7.0"
+  resolved "https://registry.yarnpkg.com/@datadog/mobile-react-native-session-replay/-/mobile-react-native-session-replay-2.7.0.tgz#242212f7124679da52e65d0e05cba7bbabfa68dd"
+  integrity sha512-+yyGGMuzkA6DCllMzseJj/BNVDkkz+JoIe8/fsLyZD/GRTyjLgxKy/QMoE+zleMhZEe9Er5lrczPjZH3PHx0lA==
 
-"@datadog/mobile-react-native@2.6.1":
-  version "2.6.1"
-  resolved "https://registry.yarnpkg.com/@datadog/mobile-react-native/-/mobile-react-native-2.6.1.tgz#ae17b48857d27e3184e11a5f42555bbedfa77747"
-  integrity sha512-MB7B0z1JfMhWBSHShKqqtA7lKUm7pSMO7Gb2IrejFm5a5CC4YTgMkPYaTCltqtPeaLwHC/xWOt/aR7TzJCRVLg==
+"@datadog/mobile-react-native@2.7.0":
+  version "2.7.0"
+  resolved "https://registry.yarnpkg.com/@datadog/mobile-react-native/-/mobile-react-native-2.7.0.tgz#80c4202019b8e63c46d5bf1250f6b44484a44cf1"
+  integrity sha512-gzO+6Fmh9/ewnubwoLFLV2A43Q0vvQk2WHiFGiX7lBog0CCNY+GVeIDWBelFLc5WLi7ecPTeZuUZIWNTSEZ68Q==
   dependencies:
     big-integer "^1.6.52"
 
-"@datadog/mobile-react-navigation@2.6.1":
-  version "2.6.1"
-  resolved "https://registry.yarnpkg.com/@datadog/mobile-react-navigation/-/mobile-react-navigation-2.6.1.tgz#78003a7f0995913b8f02b9fc63c64c9f0eb06ca5"
-  integrity sha512-cJ4Au7oBbqLHpDxbgvZg5aE2XrDgUu8triTB3MKq1I3DV+rf21REbh55+vFT6LXBfPHmP5mOtx609UD8SvDpYA==
+"@datadog/mobile-react-navigation@2.7.0":
+  version "2.7.0"
+  resolved "https://registry.yarnpkg.com/@datadog/mobile-react-navigation/-/mobile-react-navigation-2.7.0.tgz#31ac7cbbdf54bb4535ea271de16b01cea6633ca2"
+  integrity sha512-Hc4xG2H/volOPMsFPOrVSGbmSpwUnoWIF4HFOkyjg94u4M9bD5LgECzrzY6dkFLaGiqFrGfFtME4Vu+z5VkcDQ==
 
 "@egjs/hammerjs@^2.0.17":
   version "2.0.17"

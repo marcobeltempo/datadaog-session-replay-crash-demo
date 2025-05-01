@@ -13,9 +13,9 @@
   },
   "dependencies": {
     "@datadog/datadog-ci": "2.45.1",
-    "@datadog/mobile-react-native": "2.6.1",
-    "@datadog/mobile-react-native-session-replay": "2.6.1",
-    "@datadog/mobile-react-navigation": "2.6.1",
+    "@datadog/mobile-react-native": "2.7.0",
+    "@datadog/mobile-react-native-session-replay": "2.7.0",
+    "@datadog/mobile-react-navigation": "2.7.0",
     "@react-native-community/datetimepicker": "7.7.0",
     "@react-navigation/native": "~7.1.6",
     "@react-navigation/stack": "~7.2.9",
