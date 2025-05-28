@@ -1,7 +1,7 @@
-import { DdSdkReactNativeConfiguration, SdkVerbosity } from "expo-datadog";
+import { DatadogProviderConfiguration, SdkVerbosity } from "expo-datadog";
 import { SessionReplay } from "@datadog/mobile-react-native-session-replay";
 
-export const config = new DdSdkReactNativeConfiguration(
+export const config = new DatadogProviderConfiguration(
   "CLIENT_TOKEN",
   "ENV_NAME",
   "SESSION_ID",
